@@ -1,7 +1,6 @@
 // Q. 10. Write a Program to Find the Greatest of the Three Numbers.
 
-#include <iostream>
-using namespace std;
+
 
 int main() {
     int num1, num2, num3;
@@ -21,8 +20,3 @@ int main() {
 
     return 0;
 }
-// Enter three numbers: 10 20 15
-// The greatest number is: 20
-
-// Enter three numbers: 30 25 30
-// The greatest number is: 30
