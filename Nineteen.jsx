@@ -49,6 +49,7 @@ int main() {
 
     return 0;
 }
+
 // Enter three numbers: 10 20 15
 // The greatest number is: 20
 
@@ -58,6 +59,10 @@ int main() {
 
 #include <iostream>
 using namespace std;
+
+using namespace std;
+
+int main()
 
 int main() {
     int num1, num2, num3;
